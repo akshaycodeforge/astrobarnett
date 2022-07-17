@@ -1,10 +1,5 @@
-- 👋 Hi, I am astrophysicist. 
-- 👀 I’m interested in observational extragalactic astronomy.
-- I mainly work with Python. 
-- 🌱 How to reach me: astrobarnett.in
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Pronouns: He/him/his
+I am Akshay Kumar aka Astro Barnett and I hail from Rajouri, Jammu & Kashmir (J&K) which lies in the northern part of India. 
+Presently, I am doing astrophysics and cosmology at the DIPARTIMENTO DI FISICA E ASTRONOMIA "GALILEO GALILEI"  at the Università degli Studi di Padova, Italy.  
 
 <!---
 astrobarnett/astrobarnett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
