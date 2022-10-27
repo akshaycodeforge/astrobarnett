@@ -3,7 +3,6 @@ How to reach me: akshay@astrobarnett.in
 
 I mainly work with Python. 
 
-**My research interest are :** Formation and evolution of galaxies,Dark matter,Observational Cosmology, Extragalactic Astronomy and Multimessenger Astrophysics.
 
 
 <!---
