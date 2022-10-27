@@ -1,5 +1,4 @@
-I am Akshay Kumar aka [Astro Barnett](https://astrobarnett.in/about-me) and I hail from Rajouri, Jammu & Kashmir (J&K) which lies in the northern part of India. Presently, I am doing astrophysics and cosmology at the [DIPARTIMENTO DI FISICA E ASTRONOMIA "GALILEO GALILEI"  at the Università degli Studi di Padova, Italy.](https://astrobarnett.in/about-me)  
-
+I am Akshay Kumar aka [Astro Barnett](https://astrobarnett.in/about-me) and I hail from Rajouri, Jammu & Kashmir (J&K) which lies in the northern part of India.
 How to reach me: akshay@astrobarnett.in 
 
 I mainly work with Python. 
