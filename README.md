@@ -17,6 +17,9 @@ Curiosity, for me, is the bridge between seemingly distant worlds—and I love b
 
 “The mind is its own universe, as mysterious and vast as the cosmos above us.”
 
+<p align="center">
+  <img src="Exploring the Cosmos and Mind.png" alt="Cosmic background" width="600">
+</p>
 
 <!---
 astrobarnett/astrobarnett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
